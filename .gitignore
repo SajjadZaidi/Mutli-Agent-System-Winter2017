@@ -1,0 +1,12 @@
+*.class
+
+# ignore lion's dev env
+server/
+.idea/
+ares.iml
+
+# ignore eclisp's ide settings
+.classpath
+.project
+.settings/
+/bin/
